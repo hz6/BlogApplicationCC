@@ -2,17 +2,17 @@
 
 1. Start the backend by running below commands
  ```
- > cd backend
- > npm install 
- > npm run server
+ cd backend
+ npm install 
+ npm run server
  ```
 
 2. Start the frontend by running below commands
  
  ```
- > cd frontend
- > npm install 
- > npm start
+ cd frontend
+ npm install 
+ npm start
  ```
 
 
